@@ -1,0 +1,74 @@
+
+.limiter{
+    width:1366px;
+    margin:0 auto
+}
+.wrap-table100{
+    width:1170px
+}
+table{
+    width:100%
+}
+th,td{
+    font-weight:unset;
+    padding-right:10px
+}
+.column1{
+    width:33%;
+    padding-left:40px
+}
+.column2{
+    width:13%
+}
+.column3{
+    width:22%
+}
+.column4{
+    width:19%
+}
+.column5{
+    width:13%
+}
+.table100-head th{
+    padding-top:18px;
+    padding-bottom:18px
+}
+.table100-body td{
+    padding-top:16px;
+    padding-bottom:16px
+}
+.table100{
+    position:relative;
+    padding-top:60px
+}
+.table100-head{
+    position:absolute;
+    width:100%;
+    top:0;
+    left:0
+}
+.table100.ver1 th{
+    font-family:Lato-Bold;
+    font-size:18px;
+    color:#fff;
+    line-height:1.4;
+    background-color:#6c7ae0
+}
+.table100.ver1 td{
+    font-family:Lato-Regular;
+    font-size:15px;
+    color:gray;
+    line-height:1.4
+}
+.table100.ver1 .table100-body tr:nth-child(even){
+    background-color:#f8f6ff
+}
+.table100.ver1{
+    border-radius:10px;
+    overflow:hidden;
+    box-shadow:0 0 40px 0 rgba(0,0,0,.15);
+    -moz-box-shadow:0 0 40px 0 rgba(0,0,0,.15);
+    -webkit-box-shadow:0 0 40px 0 rgba(0,0,0,.15);
+    -o-box-shadow:0 0 40px 0 rgba(0,0,0,.15);
+    -ms-box-shadow:0 0 40px 0 rgba(0,0,0,.15)
+}
